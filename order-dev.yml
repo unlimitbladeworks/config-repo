@@ -8,5 +8,5 @@ spring:
 env:
   dev
 girl:
-  name: lbh
-  age: 25
+  name: lbh-我是女孩
+  age: 今年25
