@@ -7,3 +7,6 @@ spring:
     name: test-order
 env:
   dev
+girl:
+  name: lbh
+  age: 25
